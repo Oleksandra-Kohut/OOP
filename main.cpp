@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-// Клас Dog
 class Dog {
 private:
     string name;
@@ -27,7 +26,6 @@ public:
     }
 };
 
-// Клас Cat
 class Cat {
 private:
     string name;
@@ -49,7 +47,6 @@ public:
     }
 };
 
-// Клас Bird
 class Bird {
 private:
     string type;
